@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [driver_lift_1.PrjPcb]
+   Generated File[driver_lift_pcb.BOM]
+   Generated File[driver_lift_pcb.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:05:45 PM On 3/15/2014
