@@ -10,3 +10,10 @@ Driver board with MCU for driving elevator in the robot. Elektropionir 2014
 - 4x Servo motor connectors
 - 3x Servo motor connectors RX-24F
 - 3x Servo motor connectors AX-12
+
+![alt tag](https://raw.githubusercontent.com/Elektropioneer/Driver-board-_Lift_/master/board.jpg)
+
+![Schematics](https://github.com/Elektropioneer/Driver-board-_Lift_/blob/master/driver_lift.pdf)
+
+info: [Elektroponeer](http://elektropioneer.co.rs/)
+
